@@ -127,7 +127,7 @@ const CONFIG = {
 Still in `bot.js`, find the Gang section:
 
 ```js
-GANG_NAME: 'Sons of Legacy',   // change to your gang name
+GANG_NAME: 'GANG_NAME',   // change to your gang name
 
 GANG_MEMBERS: {
   'DISCORD_USER_ID': 'Exact In-Game Name',
